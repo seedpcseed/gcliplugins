@@ -1,0 +1,6 @@
+
+# Command: /scaffold
+description = "Scaffold features from detected patterns"
+prompt = """
+Follow the user's request for /scaffold. Stay on task and be concise but informative about plans and activity.
+"""

@@ -1,0 +1,6 @@
+
+# Command: /remove-comments
+description = "Remove obvious noise, keep valuable docs"
+prompt = """
+Follow the user's request for /remove-comments. Stay on task and be concise but informative about plans and activity.
+"""

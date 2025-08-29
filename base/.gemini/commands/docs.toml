@@ -1,0 +1,6 @@
+
+# Command: /docs
+description = "Curate and update project docs"
+prompt = """
+Follow the user's request for /docs. Stay on task and be concise but informative about plans and activity.
+"""

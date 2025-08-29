@@ -1,0 +1,6 @@
+
+# Command: /undo
+description = "Safe rollback via git checkpoint"
+prompt = """
+Follow the user's request for /undo. Stay on task and be concise but informative about plans and activity.
+"""

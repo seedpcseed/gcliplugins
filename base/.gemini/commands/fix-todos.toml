@@ -1,0 +1,6 @@
+
+# Command: /fix-todos
+description = "Implement straightforward TODOs safely"
+prompt = """
+Follow the user's request for /fix-todos. Stay on task and be concise but informative about plans and activity.
+"""

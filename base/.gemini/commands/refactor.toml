@@ -1,0 +1,6 @@
+
+# Command: /refactor
+description = "Restructure code with validation & mapping"
+prompt = """
+Follow the user's request for /refactor. Stay on task and be concise but informative about plans and activity.
+"""

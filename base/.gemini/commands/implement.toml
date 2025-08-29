@@ -1,0 +1,6 @@
+
+# Command: /implement
+description = "Import/adapt code with validation"
+prompt = """
+Follow the user's request for /implement. Stay on task and be concise but informative about plans and activity.
+"""

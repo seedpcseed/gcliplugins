@@ -1,0 +1,6 @@
+
+# Command: /contributing
+description = "Check CONTRIBUTING readiness; propose updates"
+prompt = """
+Follow the user's request for /contributing. Stay on task and be concise but informative about plans and activity.
+"""

@@ -1,0 +1,6 @@
+
+# Command: /find-todos
+description = "Extract and group TODOs"
+prompt = """
+Follow the user's request for /find-todos. Stay on task and be concise but informative about plans and activity.
+"""

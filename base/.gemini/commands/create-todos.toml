@@ -1,0 +1,6 @@
+
+# Command: /create-todos
+description = "Insert contextual TODOs for clear follow-ups"
+prompt = """
+Follow the user's request for /create-todos. Stay on task and be concise but informative about plans and activity.
+"""

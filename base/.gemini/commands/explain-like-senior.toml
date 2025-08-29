@@ -1,0 +1,6 @@
+
+# Command: /explain-like-senior
+description = "Senior-level explanations with context"
+prompt = """
+Follow the user's request for /explain-like-senior. Stay on task and be concise but informative about plans and activity.
+"""
