@@ -7,13 +7,15 @@ Commands live under `base/.gemini/commands` and can be installed to your environ
 
 ### Linux / macOS
 ```bash
-curl -fsSL https://raw.githubusercontent.com/USER/gcliplugins/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/<owner>/gcliplugins/main/install.sh | bash
 ```
+Replace `<owner>` with the GitHub username or organization that owns this repository.
 
 ### Windows (PowerShell)
 ```powershell
-iwr https://raw.githubusercontent.com/USER/gcliplugins/main/install.ps1 -useb | iex
+iwr https://raw.githubusercontent.com/<owner>/gcliplugins/main/install.ps1 -useb | iex
 ```
+Replace `<owner>` with the repository owner's GitHub username or organization.
 
 ## Base Commands
 A brief summary of the included slash commands:

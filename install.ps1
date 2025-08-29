@@ -1,4 +1,4 @@
-$repo = "https://github.com/USER/gcliplugins"
+$repo = "https://github.com/<owner>/gcliplugins" # Replace <owner> with the repository owner's GitHub username or organization
 $temp = New-TemporaryFile
 Remove-Item $temp
 
