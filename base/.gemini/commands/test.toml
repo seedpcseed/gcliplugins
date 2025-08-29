@@ -1,0 +1,6 @@
+
+# Command: /test
+description = "Run tests; summarize failures; propose fixes"
+prompt = """
+Follow the user's request for /test. Stay on task and be concise but informative about plans and activity.
+"""

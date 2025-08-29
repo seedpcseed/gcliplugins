@@ -1,0 +1,6 @@
+
+# Command: /make-it-pretty
+description = "Improve readability without behavior change"
+prompt = """
+Follow the user's request for /make-it-pretty. Stay on task and be concise but informative about plans and activity.
+"""

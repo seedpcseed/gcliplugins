@@ -1,0 +1,6 @@
+
+# Command: /session-start
+description = "Start structured work session; set goals"
+prompt = """
+Follow the user's request for /session-start. Stay on task and be concise but informative about plans and activity.
+"""

@@ -1,0 +1,6 @@
+
+# Command: /security-scan
+description = "Vulnerability & risk scan + remediation"
+prompt = """
+Follow the user's request for /security-scan. Stay on task and be concise but informative about plans and activity.
+"""

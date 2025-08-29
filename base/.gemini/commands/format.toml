@@ -1,0 +1,6 @@
+
+# Command: /format
+description = "Detect & run project formatter(s)"
+prompt = """
+Follow the user's request for /format. Stay on task and be concise but informative about plans and activity.
+"""

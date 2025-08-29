@@ -1,0 +1,6 @@
+
+# Command: /understand
+description = "Build mental model of project & architecture"
+prompt = """
+Follow the user's request for /understand. Stay on task and be concise but informative about plans and activity.
+"""

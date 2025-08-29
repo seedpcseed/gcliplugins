@@ -1,0 +1,6 @@
+
+# Command: /review
+description = "Multi-angle code review (quality, arch, perf, sec)"
+prompt = """
+Follow the user's request for /review. Stay on task and be concise but informative about plans and activity.
+"""

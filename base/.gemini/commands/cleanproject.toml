@@ -1,0 +1,6 @@
+
+# Command: /cleanproject
+description = "Remove debug artifacts with git safety"
+prompt = """
+Follow the user's request for /cleanproject. Stay on task and be concise but informative about plans and activity.
+"""

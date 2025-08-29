@@ -1,0 +1,6 @@
+
+# Command: /session-end
+description = "Summarize progress; next steps; diffs"
+prompt = """
+Follow the user's request for /session-end. Stay on task and be concise but informative about plans and activity.
+"""

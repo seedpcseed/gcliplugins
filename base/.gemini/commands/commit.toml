@@ -1,0 +1,6 @@
+
+# Command: /commit
+description = "Conventional commits with context analysis"
+prompt = """
+Follow the user's request for /commit. Stay on task and be concise but informative about plans and activity.
+"""

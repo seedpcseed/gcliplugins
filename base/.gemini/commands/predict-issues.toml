@@ -1,0 +1,6 @@
+
+# Command: /predict-issues
+description = "Predict risks, estimate timeline impact"
+prompt = """
+Follow the user's request for /predict-issues. Stay on task and be concise but informative about plans and activity.
+"""

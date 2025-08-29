@@ -1,0 +1,6 @@
+
+# Template for custom Gemini CLI command
+description = "Describe what your command does"
+prompt = """
+Provide clear instructions for Gemini. Keep it on task and concise but informative.
+"""

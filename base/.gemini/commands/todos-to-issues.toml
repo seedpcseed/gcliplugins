@@ -1,0 +1,6 @@
+
+# Command: /todos-to-issues
+description = "Convert TODOs into GitHub issues"
+prompt = """
+Follow the user's request for /todos-to-issues. Stay on task and be concise but informative about plans and activity.
+"""

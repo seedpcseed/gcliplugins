@@ -1,0 +1,6 @@
+
+# Command: /fix-imports
+description = "Normalize/repair imports after changes"
+prompt = """
+Follow the user's request for /fix-imports. Stay on task and be concise but informative about plans and activity.
+"""
