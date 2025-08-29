@@ -1,11 +1,14 @@
-
 # /session-start
 
-Start structured work session; set goals.
+Begin a development session with an initial assessment.
 
 **Usage**:
 ```
 /session-start
 ```
 
-This command keeps Gemini on task and provides concise yet informative updates.
+**Instructions:**
+- Review repository status and outstanding issues.
+- Identify the tasks to be tackled in this session.
+- Verify the environment is set up correctly.
+- Provide a brief plan of action.

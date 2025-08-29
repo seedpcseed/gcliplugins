@@ -1,11 +1,14 @@
-
 # /security-scan
 
-Vulnerability & risk scan + remediation.
+Scan the project for security vulnerabilities.
 
 **Usage**:
 ```
 /security-scan
 ```
 
-This command keeps Gemini on task and provides concise yet informative updates.
+**Instructions:**
+- Run any available security tools (e.g., `npm audit`, `pip audit`).
+- Inspect code for common security pitfalls.
+- Report discovered vulnerabilities with affected packages or lines.
+- Suggest mitigation steps where possible.

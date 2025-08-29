@@ -1,11 +1,14 @@
-
 # /remove-comments
 
-Remove obvious noise, keep valuable docs.
+Strip obsolete or commented-out code.
 
 **Usage**:
 ```
 /remove-comments
 ```
 
-This command keeps Gemini on task and provides concise yet informative updates.
+**Instructions:**
+- Find comments that no longer add value or blocks of commented-out code.
+- Remove them while preserving meaningful documentation.
+- Ensure code still compiles or runs.
+- Summarize the files cleaned up.

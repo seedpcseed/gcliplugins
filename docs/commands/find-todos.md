@@ -1,11 +1,14 @@
-
 # /find-todos
 
-Extract and group TODOs.
+Locate TODO comments in the codebase.
 
 **Usage**:
 ```
 /find-todos
 ```
 
-This command keeps Gemini on task and provides concise yet informative updates.
+**Instructions:**
+- Search the repository for `TODO` markers.
+- For each TODO, report the file path and line number.
+- Provide a brief snippet of context for each result.
+- If no TODOs are found, state that explicitly.

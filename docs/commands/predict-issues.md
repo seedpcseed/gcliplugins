@@ -1,11 +1,14 @@
-
 # /predict-issues
 
-Predict risks, estimate timeline impact.
+Analyze code to anticipate potential problems.
 
 **Usage**:
 ```
 /predict-issues
 ```
 
-This command keeps Gemini on task and provides concise yet informative updates.
+**Instructions:**
+- Examine recent changes or targeted files for logical or stylistic flaws.
+- Describe potential bugs, performance concerns, or maintainability issues.
+- Reference specific lines or functions when possible.
+- Suggest mitigations or next steps.

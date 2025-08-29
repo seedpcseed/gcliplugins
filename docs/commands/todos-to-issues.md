@@ -1,11 +1,14 @@
-
 # /todos-to-issues
 
-Convert TODOs into GitHub issues.
+Convert TODO comments into issue descriptions.
 
 **Usage**:
 ```
 /todos-to-issues
 ```
 
-This command keeps Gemini on task and provides concise yet informative updates.
+**Instructions:**
+- Find TODO comments throughout the codebase.
+- For each TODO, draft an issue title and summary.
+- Compile them into a list for future tracking.
+- Remove or reference TODOs to the created issues if appropriate.
