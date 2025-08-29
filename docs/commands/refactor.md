@@ -1,11 +1,14 @@
-
 # /refactor
 
-Restructure code with validation & mapping.
+Improve code structure without altering behavior.
 
 **Usage**:
 ```
 /refactor
 ```
 
-This command keeps Gemini on task and provides concise yet informative updates.
+**Instructions:**
+- Identify code that is hard to understand or maintain.
+- Break down large functions, rename variables, or reorganize modules as needed.
+- Ensure existing tests continue to pass.
+- Summarize the refactoring rationale.

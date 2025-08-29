@@ -1,11 +1,14 @@
-
 # /explain-like-senior
 
-Senior-level explanations with context.
+Explain code as a senior engineer would.
 
 **Usage**:
 ```
 /explain-like-senior
 ```
 
-This command keeps Gemini on task and provides concise yet informative updates.
+**Instructions:**
+- Provide a high-level summary of the selected code.
+- Describe design decisions and potential trade-offs.
+- Highlight edge cases or pitfalls a junior developer should know.
+- Keep the explanation concise yet informative.

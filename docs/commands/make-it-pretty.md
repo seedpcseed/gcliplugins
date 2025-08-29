@@ -1,11 +1,14 @@
-
 # /make-it-pretty
 
-Improve readability without behavior change.
+Improve readability and style without changing behavior.
 
 **Usage**:
 ```
 /make-it-pretty
 ```
 
-This command keeps Gemini on task and provides concise yet informative updates.
+**Instructions:**
+- Clean up naming, spacing, and minor style issues.
+- Simplify expressions or control flow where possible.
+- Ensure code remains functionally equivalent.
+- Highlight aesthetic changes in the summary.

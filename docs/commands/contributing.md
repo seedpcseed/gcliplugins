@@ -1,11 +1,14 @@
-
 # /contributing
 
-Check CONTRIBUTING readiness; propose updates.
+Create or update repository contribution guidelines.
 
 **Usage**:
 ```
 /contributing
 ```
 
-This command keeps Gemini on task and provides concise yet informative updates.
+**Instructions:**
+- Check for an existing `CONTRIBUTING.md` file.
+- If missing, create one outlining how to file issues and submit pull requests.
+- If present, update it with any new project-specific conventions.
+- Keep the guidance clear and concise.

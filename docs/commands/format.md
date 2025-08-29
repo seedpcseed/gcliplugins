@@ -1,11 +1,14 @@
-
 # /format
 
-Detect & run project formatter(s).
+Apply code formatting standards.
 
 **Usage**:
 ```
 /format
 ```
 
-This command keeps Gemini on task and provides concise yet informative updates.
+**Instructions:**
+- Run the project's formatter (e.g., Prettier, Black, gofmt) across modified files.
+- Ensure the formatting tool uses repository configuration if available.
+- Do not introduce functional changes.
+- Summarize files that were reformatted.

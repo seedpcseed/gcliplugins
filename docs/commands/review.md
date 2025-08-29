@@ -1,11 +1,14 @@
-
 # /review
 
-Multi-angle code review (quality, arch, perf, sec).
+Provide a code review of recent changes.
 
 **Usage**:
 ```
 /review
 ```
 
-This command keeps Gemini on task and provides concise yet informative updates.
+**Instructions:**
+- Examine the diff or specified files carefully.
+- Note strengths, potential issues, and opportunities for improvement.
+- Reference lines or functions when making comments.
+- Offer concise, actionable feedback.

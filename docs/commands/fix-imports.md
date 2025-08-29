@@ -1,11 +1,14 @@
-
 # /fix-imports
 
-Normalize/repair imports after changes.
+Organize and deduplicate import statements.
 
 **Usage**:
 ```
 /fix-imports
 ```
 
-This command keeps Gemini on task and provides concise yet informative updates.
+**Instructions:**
+- Scan files for unused or duplicate imports.
+- Remove unused imports and group the remaining ones logically.
+- Sort imports alphabetically or per project conventions.
+- Ensure code still compiles or runs after changes.
